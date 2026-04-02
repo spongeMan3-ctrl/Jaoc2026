@@ -1,4 +1,4 @@
-# Solutions for [Advent of Code 2026](https://adventofcode.com) from spongeman in Java (Maybe in c/rust later)
+# Solutions for [Advent of Code 2026](https://adventofcode.com) from spongeman in Java (Maybe in cpp/rust later)
 
 ## Env
 
