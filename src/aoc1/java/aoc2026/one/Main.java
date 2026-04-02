@@ -1,11 +1,6 @@
-package aoc2026;
+package aoc2026.one;
 
-import java.io.BufferedReader;
-import java.io.FileNotFoundException;
-import java.io.FileReader;
-import java.io.IOException;
-
-import static aoc2026.Nubmers.nubmers;
+import static aoc2026.one.Nubmers.nubmers;
 
 public class Main {
 
@@ -45,7 +40,7 @@ public class Main {
             }
 
         }
-        
+
         System.out.println(okNumbers);
 
     }
@@ -53,3 +48,5 @@ public class Main {
 
 }
 
+//alt + K
+//https://adventofcode.com/2025/day/2

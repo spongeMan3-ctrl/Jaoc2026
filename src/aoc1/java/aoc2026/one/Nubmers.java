@@ -1,4 +1,4 @@
-package aoc2026;
+package aoc2026.one;
 
 public class Nubmers {
     public final static String nubmers =
